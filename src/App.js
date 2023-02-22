@@ -18,7 +18,7 @@ function App() {
       n: 1,
       size: "512x512",
     });
-    // deneme
+
     setResult(res.data.data[0].url);
   };
   return (
